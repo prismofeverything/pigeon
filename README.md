@@ -2,6 +2,12 @@
 
 A collection of classification algorithms in Clojure
 
+## Installation
+
+Add this line to your `project.clj`
+
+    :dependencies [[pigeon "0.0.1"]]
+
 ## Usage
 
 Pigeon will accept a series of archetypes as java.util.Collecitons to be matched against, and then respond 
