@@ -10,7 +10,7 @@ Add this line to your `project.clj`
 
 ## Usage
 
-Pigeon will accept a series of archetypes as java.util.Collecitons to be matched against, and then respond 
+Pigeon will accept a series of archetypes as java.util.Collections to be matched against, and then respond 
 with the closest match given an unidentified input collection.
 
 To instantiate the classifier, simply:
